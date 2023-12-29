@@ -50,8 +50,9 @@ public class E01MethodBasic
 	main메서드는 Java에서 출발점(Entry point)의 역할을 한다. 
 	즉 직접 호출하지 않아도 자동으로 호출되어 프로그램이 실행된다. 	
 	 */
-	public static void main(String[] args) 
-	{
+	public static void main(String[] args)  
+
+	{/* github 연동 완료*/
 		/*
 		메서드를 호출할때는 함수의 원형을 그대로 기술하면된다. 
 		매개변수가 있다면 갯수만큼 포함한다. 갯수가 다르거나 타입이
